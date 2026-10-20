@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="H.W.-lab3-/H.W.-lab3-.vcxproj" />
+</Solution>
